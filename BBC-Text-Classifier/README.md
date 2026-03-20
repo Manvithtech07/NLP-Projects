@@ -9,3 +9,6 @@ This project classifies BBC news articles into categories such as business, spor
 - Multinomial Naive Bayes model
 - Model saving using pickle
 - Modular code structure
+
+
+<img width="1904" height="740" alt="image" src="https://github.com/user-attachments/assets/4487e9ef-a343-4dc0-beec-0f0e810833c0" />
